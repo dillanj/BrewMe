@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BrewMe</string>
+    <string name="state_button">State</string>
+
+    <string-array name="states_array">
+        <item>ALABAMA</item><item>ALASKA</item><item>ARIZONA</item>
+        <item>ARKANSAS</item><item>CALIFORNIA</item><item>COLORADO</item><item>CONNECTICUT</item>
+        <item>DELAWARE</item><item>FLORIDA</item><item>GEORGIA</item><item>HAWAII</item><item>IDAHO</item>
+        <item>ILLINOIS</item><item>INDIANA</item><item>IOWA</item><item>KANSAS</item><item>KENTUCKY</item>
+        <item>LOUISIANA</item><item>MAINE</item><item>MARYLAND</item><item>MASSACHUSSETS</item>
+        <item>MICHIGAN</item><item>MINNESOTA</item><item>MISSISSIPPI</item><item>MISSOURI</item>
+        <item>MONTANA</item><item>NEBRASKA</item><item>NEVADA</item><item>NEW HAMPSHIRE</item>
+        <item>NEW JERSEY</item><item>NEW MEXICO</item><item>NEW YORK</item><item>NORTH CAROLINA</item>
+        <item>NORTH DAKOTA</item><item>OHIO</item><item>OKLAHOMA</item>
+        <item>OREGON</item><item>PENNSYLVANIA</item><item>RHODE ISLAND</item>
+        <item>SOUTH CAROLINA</item><item>SOUTH DAKOTA</item><item>TENNESSEE</item><item>TEXAS</item>
+        <item>UTAH</item><item>VERMONT</item><item>VIRGINIA</item><item>WASHINGTON</item>
+        <item>WEST VIRGINIA</item><item>WISCONSIN</item><item>WYOMING</item>
+    </string-array>
+</resources>
